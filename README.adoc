@@ -33,6 +33,9 @@ The key features include:
 
 > Long term it is expected to migrate onto other solutions, such as Red Hat Satellite to manage RPMs and Red Hat Quay for disconnected image registry.  Please discuss migration strategies with your Red Hat sales team.
 
+[OpenShift Disconnected Installer for Enterprises](http:///people.redhat.com/nrevo/Disconnected OpenShift Done Right.mp4 "Disconnected OpenShift Demo")
+
+
 # Media Overview
 
 ODIE is provided as a series of ISOs that are designed to be burned onto a 4.7GB single layer DVD (our testing identified a significant coaster rate when attempting to boot on dual layer media).
